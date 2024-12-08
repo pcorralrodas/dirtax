@@ -1,0 +1,7 @@
+v 2.2.1
+d 'DIRTAX': Stata module to calculate progressive taxes
+d 
+d Distribution-Date: 28 Jan 2019
+d 
+F src/d/dirtax.ado
+F src/d/dirtax.sthlp
