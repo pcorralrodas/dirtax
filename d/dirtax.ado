@@ -44,6 +44,7 @@ qui{
 	}
 	else{
 		forval z=1/`srates'{
+			local f = ``z''
 			local myrates `myrates' `f'
 		}	
 	}
